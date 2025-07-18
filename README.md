@@ -47,17 +47,55 @@
 ---
 
 ### 🌟 Featured Projects
-<p align="left">
-  <a href="https://github.com/SantoshAgrawal15/LT-discussion-saver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=LT-discussion-saver&theme=tokyonight" alt="LT-discussion-saver" />
-  </a>
-  <a href="https://github.com/SantoshAgrawal15/Healthcare-Claims-Cost-Evaluation-and-Trend-Analysis-Using-SQL-and-Excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=Healthcare-Claims-Cost-Evaluation-and-Trend-Analysis-Using-SQL-and-Excel&theme=tokyonight" alt="Healthcare-Analysis" />
-  </a>
-  <a href="https://github.com/SantoshAgrawal15/RetailIQ-E-Commerce-Sales-and-Customer-Intelligence-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=RetailIQ-E-Commerce-Sales-and-Customer-Intelligence-System&theme=tokyonight" alt="RetailIQ-System" />
-  </a>
-</p>
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+
+**🧬 MedIntel: AI-Driven Infection Insight**
+[![MedIntel](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=MedIntel-AI-Driven-Infection-Insight-System&theme=tokyonight)](https://github.com/SantoshAgrawal15/MedIntel-AI-Driven-Infection-Insight-System)
+
+</td>
+<td width="50%">
+
+**🚀 HireHub: Smart Job Matching**
+[![HireHub](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=HireHub-Smart-Job-Matching-Platform&theme=tokyonight)](https://github.com/SantoshAgrawal15/HireHub-Smart-Job-Matching-Platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎵 EchoStream: Media Playback**
+[![EchoStream](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=EchoStream-Intelligent-MediaPlayback-System&theme=tokyonight)](https://github.com/SantoshAgrawal15/EchoStream-Intelligent-MediaPlayback-System)
+
+</td>
+<td width="50%">
+
+**💾 LT Discussion Saver**
+[![LT-Saver](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=LT-discussion-saver&theme=tokyonight)](https://github.com/SantoshAgrawal15/LT-discussion-saver)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏥 Healthcare Claims Analysis**
+[![Healthcare](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=Healthcare-Claims-Cost-Evaluation-and-Trend-Analysis-Using-SQL-and-Excel&theme=tokyonight)](https://github.com/SantoshAgrawal15/Healthcare-Claims-Cost-Evaluation-and-Trend-Analysis-Using-SQL-and-Excel)
+
+</td>
+<td width="50%">
+
+**🛒 RetailIQ: E-Commerce Intelligence**
+[![RetailIQ](https://github-readme-stats.vercel.app/api/pin/?username=SantoshAgrawal15&repo=RetailIQ-E-Commerce-Sales-and-Customer-Intelligence-System&theme=tokyonight)](https://github.com/SantoshAgrawal15/RetailIQ-E-Commerce-Sales-and-Customer-Intelligence-System)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ### ☕ Contact Me
